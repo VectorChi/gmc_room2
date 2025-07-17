@@ -1,9 +1,2 @@
-I already find the lessons very interesting, even though it's a bit fast for me
+I already find the lessons very interesting, even though it's a bit fast for me. 
 
-Explication simple : 
-Quand tu fais un "git push" pour la première fois, Git ne sait pas encore où envoyer ta branche "master" sur internet (le dépôt distant). 
-Il faut lui dire à quelle adresse (remote) il doit l'envoyer. C'est ce qu'on appelle "configurer l'upstream".
-Après avoir fait cette configuration, les prochains "git push" fonctionneront sans problème.
-
-Ce problème n'est pas lié au nom de la branche. 
-Il arrive parce que ta branche locale (par exemple "master" ou un autre nom) n'est pas encore reliée à une branche sur le dépôt distant.
